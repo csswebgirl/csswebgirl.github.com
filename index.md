@@ -36,7 +36,11 @@ Here's a sample "posts list".
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt }}
+      {% if post.content contains '<!--more-->' %}
+    {{ post.content | split:'<!--more-->' | first }}
+{% else %}
+    <!-- Case for when no excerpt is defined -->
+{% endif %}
     </li>
   {% endfor %}
 </ul>
