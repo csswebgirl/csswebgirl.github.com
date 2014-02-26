@@ -13,8 +13,8 @@ tagline: Creative Thoughts and Portfolio
 author :
   name : Name Lastname
   email : csswebgirl@gmail.com
-  github : username
-  twitter : username
+  github : csswebgirl
+  twitter : csswebgirl
   feedburner : feedname
 
 # The production_url is only used when full-domain names are needed
