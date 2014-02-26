@@ -22,29 +22,6 @@ In `_config.yml` remember to specify your own data:
       twitter : username
 
 The theme should reference these variables whenever needed.
-    
-## Sample Posts
-
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
-
-Here's a sample "posts list".
-
-<ul class="posts">
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-      {% if post.content contains '<!--more-->' %}
-    {{ post.content | split:'<!--more-->' | first }}
-     <a href="{{ post.url }}">Read More</a>
-{% else %}
-    <!-- Case for when no excerpt is defined -->
-{% endif %}
-    </li>
-  {% endfor %}
-</ul>
 
 ## To-Do
 
