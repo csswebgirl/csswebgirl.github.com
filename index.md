@@ -36,7 +36,7 @@ Here's a sample "posts list".
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
-      {{ post.excerpt | remove: '<p>' | remove: '</p>' }}
+      {{ post.excerpt }}
     </li>
   {% endfor %}
 </ul>
