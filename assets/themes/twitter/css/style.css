@@ -79,5 +79,10 @@ body {
 .nav > li {
     display: inline-block; }
 
-.container-narrow a.brand { 
-  padding-top: 10px; }
+.container-narrow a.brand {
+  display: inline-block; 
+  padding-top: 15px; 
+  color: #666666; }
+  
+.container-narrow a:hover.brand, .container-narrow a:focus.brand {
+  color: #428BCA; }
