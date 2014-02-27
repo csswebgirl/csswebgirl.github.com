@@ -77,6 +77,12 @@ body {
 
 /* Style modifications */
 
+.container-narrow a.brand:before, .container-narrow a.brand:after {
+    clear: both;
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden; }
 
-.container-narrow .brand { 
-  padding-top: 15px; }
+.container-narrow a.brand { 
+  padding-top: 10px; }
