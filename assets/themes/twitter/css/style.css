@@ -144,6 +144,6 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 /*comments */
 
-.disqus_thread { 
+#disqus_thread { 
    margin: 0 auto;
    max-width: 700px; }
