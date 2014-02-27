@@ -76,6 +76,13 @@ body {
 
 /* Style modifications */
 
+.navbar:before, .navbar:after {
+    clear: both;
+    content: "";
+    display: block;
+    height: 0;
+    visibility: hidden; }
+
 .nav > li {
     display: inline-block; }
 
@@ -87,6 +94,8 @@ body {
 .container-narrow a:hover.brand, .container-narrow a:focus.brand {
   color: #428BCA;
   text-decoration: none; }
+  
+#header-top { float: left; }
   
 h1 { font-size: 30px; }
 
