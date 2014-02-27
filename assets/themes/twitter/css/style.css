@@ -82,13 +82,15 @@ body {
     display: block;
     height: 0;
     visibility: hidden; }
+	
+.navbar .nav {
+    margin-top: 19px; }
 
 .nav > li {
     display: inline-block; }
 
 .container-narrow a.brand {
   display: inline-block; 
-  padding-top: 15px; 
   color: #666666; }
   
 .container-narrow a:hover.brand, .container-narrow a:focus.brand {
