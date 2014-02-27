@@ -72,3 +72,11 @@ body {
   background: #57A957;
   border: 1px solid #4c964d;
   color: #FFF; }
+  
+/******************************/
+
+/* Style modifications */
+
+
+.container-narrow .brand { 
+  padding-top: 15px; }
