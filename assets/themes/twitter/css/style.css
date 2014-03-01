@@ -141,6 +141,8 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
    max-width: 300px; 
    margin-left: auto;
    margin-right: auto; }
+   
+footer p { text-align: center; }
 
 
 /* pagination from twitter bootstrap 2.2.2. */
