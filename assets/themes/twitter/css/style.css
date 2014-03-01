@@ -111,6 +111,8 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 .nav a { color: #808080; }
 
+.nav a:hover, .nav a:focus { color: #2A6496; }
+
 .page-header {
     display: none;
 }
