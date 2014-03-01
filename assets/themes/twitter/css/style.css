@@ -134,6 +134,10 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
     margin-bottom: 20px;
     padding-bottom: 9px; }
 
+#skills_set { 
+   text-align: center; 
+   max-width: 300px; }
+
 
 /* pagination from twitter bootstrap 2.2.2. */
 
