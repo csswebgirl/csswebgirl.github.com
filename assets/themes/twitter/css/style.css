@@ -109,18 +109,20 @@ h1 { font-size: 30px; }
 
 h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
+a { color: #EEEEEE; }
+
 .page-header {
     display: none;
 }
 
 .navbar-inner .container { 
-    border-bottom: 1px solid #EEEEEE;
+    border-bottom: 1px solid #428BCA;
     margin-bottom: 20px;
     padding-bottom: 9px;
 }
 
 .post-header {
-    border-bottom: 1px solid #EEEEEE;
+    border-bottom: 1px solid #428BCA;
     margin: 40px 0 20px;
     padding-bottom: 9px;
 }
