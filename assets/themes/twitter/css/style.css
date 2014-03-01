@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 /* main section */
 
-#about_me, #my_resume, #technical_writing_samples { text-align: center; }
+#about_me, #experience, #technical_writing_samples { text-align: center; }
 
 #bio, #work, #education, #skills { 
     margin-bottom: 20px;
