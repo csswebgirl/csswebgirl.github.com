@@ -9,6 +9,7 @@ tagline: Web Designer / Technical Writer
 
 ## About Me
 
+<div id="biography">
 
 #### A Brief Biography
 
@@ -18,7 +19,9 @@ Creating web sites, designing templates and other web resources as well as writi
 
 Have a project? Then please contact me.
 
+</div>
 
+<div id="main-skills">
 
 #### Main Skills
 
@@ -27,6 +30,8 @@ Front End Web Design & Development
 Technical & Business Writing
 
 WordPress Theme and CMS Creation 
+
+</div>
 
 
 ## My Resume
