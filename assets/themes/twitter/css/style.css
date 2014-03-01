@@ -133,6 +133,8 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 #bio, #work, #education, #skills { 
     margin-bottom: 20px;
     padding-bottom: 9px; }
+	
+#work h4, #work ul { margin-bottom: 30px; }
 
 #skills_set { 
    text-align: center; 
