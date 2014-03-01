@@ -76,6 +76,12 @@ body {
 
 /* Style modifications */
 
+.navbar {
+border-radius: 0;
+-webkit-border-radius: 0;
+-moz-border-radius: 0;
+}
+
 .navbar:before, .navbar:after {
     clear: both;
     content: "";
