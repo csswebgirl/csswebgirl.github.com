@@ -9,27 +9,33 @@ tagline: Web Designer / Technical Writer
 
 ## About Me
 
-<div id="biography">
 
-#### A Brief Biography
+<div id="bio">
 
-Having 10 years of experience in both web designing and technical writing, I specializes in standards-based dynamic HTML/CSS site designing, as well as technical writing.
+<h4>A Brief Biography</h4>
 
-Creating web sites, designing templates and other web resources as well as writing (technical and more) is what I love to do. I love to create, and these field are all about creativity. It is great to help individuals and businesses express themselves and grow though a dynamic web presence; and knowing that it was though your own work that help make that happen makes me fill with pride.
+<p>Having 10 years of experience in both web designing and technical writing, I specializes in standards-based dynamic HTML/CSS site designing, as well as technical writing.</p>
 
-Have a project? Then please contact me.
+<p>Creating web sites, designing templates and other web resources as well as writing (technical and more) is what I love to do. I love to create, and these field are all about creativity. It is great to help individuals and businesses express themselves and grow though a dynamic web presence; and knowing that it was though your own work that help make that happen makes me fill with pride.</p>
+
+<p>Have a project? Then please contact me.</p>
+
 
 </div>
 
-<div id="main-skills">
+<div id="short-skill-list">
 
-#### Main Skills
+<h4>Main Skills</h4>
 
-Front End Web Design & Development
+<ul>
 
-Technical & Business Writing
+<li>Front End Web Design & Development</li>
 
-WordPress Theme and CMS Creation 
+<li>Technical & Business Writing</li>
+
+<li>WordPress Theme and CMS Creation</li>
+
+</ul> 
 
 </div>
 
