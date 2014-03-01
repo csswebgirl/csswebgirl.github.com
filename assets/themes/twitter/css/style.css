@@ -128,7 +128,11 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 /* main section */
 
-#about_me { text-align: center; }
+#about_me, #my_resume, #technical_writing_samples { text-align: center; }
+
+#bio, #work, #education, skills { 
+    margin-bottom: 20px;
+    padding-bottom: 9px; }
 
 
 /* pagination from twitter bootstrap 2.2.2. */
