@@ -13,7 +13,9 @@ However, hosting my silverglass.net site with them means that I have to do all t
 
 Usually that mean using the Terminal and command lines, something I honestly haden't done since college and was learning C++. (And yeah, I haven't used C++ since college either, and have pretty much forgotten all I knew about it).
 
-I'm glad a switched back to a Mac, since that meant I could use the Terminal that already came with it, and didn't have to install something like PuTTY or whatever, if I was still on Windows. (Though I went and downloaded the iTerm app anyway, since I could customize it more than the regular Terminal.) 
+I'm glad a switched back to a Mac, since that meant I could use the Terminal that already came with it, and didn't have to install something like PuTTY or whatever, if I was still on Windows. (Though I went and downloaded the iTerm app anyway, since I could customize it more than the regular Terminal.)
+
+<!--more--> 
 
 I've been reading the documentation forum on Digital Ocean as well as looking up tutorials on YouTube and, even though I had no experience at all in doing this stuff (I didn't even know what LAMP stood for before I installed it) everything has been installed correctly and the new server is up and running. 
 
