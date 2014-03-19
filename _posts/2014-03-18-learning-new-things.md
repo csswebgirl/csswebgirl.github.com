@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning New Things and Relearning Old Things
-description: "coding is always changing"
+title: "Learning New Things and Relearning Old Things"
+description: "programming is a never ending learning experience"
 category: 
 tags: [LAMP, servers, Ruby, coding, CMS, programing]
 ---
@@ -41,6 +41,6 @@ However, I have just installed [MAMP](http://www.mamp.info/en/) for the first ti
 Anyway, I think I might look into installing Wagtail locally if possible, if to just get a feel for it. Even if I never end up using it, I think it - and expecially Django - would be good knowelge to have. 
 
 It really is never too late to learn something new. Expecially when it comes to computer programming. This are forever and always on the move.        
-=======
+
 This is a test to get the .md to work
->>>>>>> FETCH_HEAD
+
