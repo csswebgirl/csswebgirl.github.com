@@ -8,7 +8,6 @@ tags: [LAMP, servers, Ruby, coding, CMS, programing]
 
 {% include JB/setup %}
 
-<<<<<<< HEAD
 So for the past month I have been busy moving my web hosting to a different server. I have chosen [Digital Ocean](https://www.digitalocean.com/), an SSD Cloud Hosting service and, so far, I'm like what I'm seeing from them. 
 
 However, hosting my silverglass.net site with them means that I have to do all the back-end stuff myself, as it is not a shared host. I create my own server, using what they call a droplet, and I have to install the server software I want to use and everything else to run the site - meaning installing things such as Apache and PHP. 
