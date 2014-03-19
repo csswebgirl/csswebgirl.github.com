@@ -8,6 +8,7 @@ tags: [LAMP, servers, Ruby, coding, CMS, programing]
 
 {% include JB/setup %}
 
+<<<<<<< HEAD
 So for the past month I have been busy moving my web hosting to a different server. I have chosen [Digital Ocean](https://www.digitalocean.com/), an SSD Cloud Hosting service and, so far, I'm like what I'm seeing from them. 
 
 However, hosting my silverglass.net site with them means that I have to do all the back-end stuff myself, as it is not a shared host. I create my own server, using what they call a droplet, and I have to install the server software I want to use and everything else to run the site - meaning installing things such as Apache and PHP. 
@@ -41,3 +42,6 @@ However, I have just installed [MAMP](http://www.mamp.info/en/) for the first ti
 Anyway, I think I might look into installing Wagtail locally if possible, if to just get a feel for it. Even if I never end up using it, I think it - and expecially Django - would be good knowelge to have. 
 
 It really is never too late to learn something new. Expecially when it comes to computer programming. This are forever and always on the move.        
+=======
+This is a test to get the .md to work
+>>>>>>> FETCH_HEAD
