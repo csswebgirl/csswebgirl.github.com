@@ -151,6 +151,11 @@ h2#technical_writing_samples { margin-top: 60px; }
 footer p { 
    text-align: center; 
    font-size: 12px; }
+   
+
+/* posts */
+
+ul.posts li { padding-bottom: 25px; }
 
 
 /* pagination from twitter bootstrap 2.2.2. */
