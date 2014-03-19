@@ -3,7 +3,7 @@ layout: post
 title: "Learning New Things and Relearning Old Things"
 description: "programming is a never ending learning experience"
 category: 
-tags: [LAMP, servers, Ruby, coding, CMS, programing]
+tags: [LAMP, servers, Ruby, coding, CMS, programming]
 ---
 
 {% include JB/setup %}
