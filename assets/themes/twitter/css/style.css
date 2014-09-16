@@ -157,11 +157,11 @@ footer p {
 
 h2#tech { margin-bottom: 50px; }
 
-iframe { float: left; }
+iframe { float: left; margin-right: 40px; }
 
 .tech-section { margin-bottom: 100px; }
 
-.info-text { margin-top: 50px; margin-bottom: 50px; float: right;}
+.info-text { margin-top: 50px; margin-bottom: 50px; float: none;}
    
 
 /* posts */
