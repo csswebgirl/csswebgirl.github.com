@@ -134,8 +134,6 @@ h1, h2, h3, h4, h5, h6 { font-weight: 300; }
 
 #about_me, #experience, #technical_writing_samples { text-align: center; }
 
-.tech-section { margin-bottom: 150px; }
-
 h2#technical_writing_samples { margin-top: 60px; }
 
 #bio, #work, #education, #skills { 
@@ -153,6 +151,13 @@ h2#technical_writing_samples { margin-top: 60px; }
 footer p { 
    text-align: center; 
    font-size: 12px; }
+   
+
+/*portfolio*/
+
+iframe { float: left; }
+
+.tech-section { margin-bottom: 150px; }
    
 
 /* posts */
