@@ -157,6 +157,10 @@ footer p {
 
 #portfolio { text-align: center; }
 
+#port-info { 
+    margin-bottom: 20px;
+    padding-bottom: 9px; }
+
 h3#tech { margin-bottom: 50px; }
 
 iframe { float: left; margin-right: 40px; }
