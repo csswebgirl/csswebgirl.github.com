@@ -159,7 +159,7 @@ iframe { float: left; }
 
 .tech-section { margin-bottom: 150px; }
 
-.info-text { float: right; }
+.info-text { float: left; margin-left: 100px;}
    
 
 /* posts */
