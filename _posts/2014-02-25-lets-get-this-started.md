@@ -22,4 +22,4 @@ As for rbenv, I'm still such a newbie to this stuff that I don't feel comfortabl
 
 So basically, I don't have a local version of Jekyll running just yet. However, that's okay, as it still seems I'm able to make make blog posts.
 
-This is also the first time I've ever reallysed the Markdown program (Mou as it's called on Mac). I still have many of the styling codes left to learn, but I don't think that should take too long. I'm much better at design codes (like HTML, CSS and such) than I am at the moment at things like Ruby and other terminal/shell beased commands and coding. Though I _will_ be trying to get better at the latter. 
+This is also the first time I've ever really used the Markdown program (Mou as it's called on Mac). I still have many of the styling codes left to learn, but I don't think that should take too long. I'm much better at design codes (like HTML, CSS and such) than I am at the moment at things like Ruby and other terminal/shell beased commands and coding. Though I _will_ be trying to get better at the latter. 
