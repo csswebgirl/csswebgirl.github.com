@@ -11,7 +11,7 @@ Well hello again - finally!
 
 Yes, it has been a while since I have updated this blog. I won't go into the long explination as to why. But a lot of projects I've been working on recently have me now back, and about to use Github a lot more I feel. 
 
-However, the blog here on Github will not be my **main** blog. The blog here on Github will mainly be for announcing scripts and such that I will be uploading for use. What will the scripts be for? Well, for that you will have to follow me on my main blog, which will now be located [over on Wordpress](http://https://illyionsaga.wordpress.com/).
+However, the blog here on Github will not be my **main** blog. The blog here on Github will mainly be for announcing scripts and such that I will be uploading for use. What will the scripts be for? Well, for that you will have to follow me on my main blog, which will now be located [over on Wordpress](https://illyionsaga.wordpress.com/).
 
 <!--more-->
 
