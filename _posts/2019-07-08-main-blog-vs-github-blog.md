@@ -9,14 +9,8 @@ tags: [blog, github, wordpress, update]
 
 Well hello again - finally!
 
-Yes, it has been a while since I have updated this blog. I won't go into the long explanation as to why. But a lot of projects I've been working on recently have me now back, and about to use Github a lot more I feel.
+Yes, it has been a while since I have updated this blog. I won't go into the long explanation as to why. But there is a project I've been working on recently, and so I'll be using Github much more continuing forward for it.
 
-However, the blog here on Github will not be my **main** blog. The blog here on Github will mainly be for announcing scripts and such that I will be uploading for use. What will the scripts be for? Well, they will mostly be for use with the program RPG Maker MV. However, for more info on that you will have to follow me on my main blog, which will now be located [over on Blogger](https://rpgmakerjourney.blogspot.com/).
+So this post is a relaunch of sorts. The blog here on Github will mainly be for announcing scripts and such that I will be uploading for use. What will the scripts be for? Well, they will mostly be for use with the program RPG Maker MV. I will talk more about that RPG Maker project here, as well as any other coding-specific projects I work on in the future.  
 
-<!--more-->
-
-I have created many CSM websites using Wordpress. However, **this** time I am using the free blog feature of Blogger because I don't have the time to build a site from scratch **and** deal with all that comes with maintaining a site that you are hosting from building yourself. I'm knee deep in other types of design and coding with my new project, *plus* I wish to be able to write and blog regularly as well as working on this.
-
-So yes, there is little to no time for me to do those things *as well as* build and host the site myself. What I have over here on Github is fine for that.
-
-Again, the blog posts here will be sporadic, mostly having to do with updating on any new scripts I upload into my repository, as well as giving tutorials for how to use the scripts. My main blog is where you should go for more frequent updates.  
+The blog posts here will be still be sporadic for now, as I do have to focused mostly on working on and _finishing_ these projects. So the main updates I do make will have to do with updating on any new scripts I upload into my repository, as well as giving tutorials for how to use the scripts. 
