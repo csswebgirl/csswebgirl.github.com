@@ -1,4 +1,4 @@
-especially---
+---
 layout: post
 title: "Learning New Things and Relearning Old Things"
 description: "programming is a never ending learning experience"
@@ -20,7 +20,7 @@ I'm glad a switched back to a Mac, since that meant I could use the Terminal tha
 
 I've been reading the documentation forum on Digital Ocean as well as looking up tutorials on YouTube and, even though I had no experience at all in doing this stuff (I didn't even know what LAMP stood for before I installed it) everything has been installed correctly and the new server is up and running.
 
-There is no content there yet. Mostly because I can't decide if I want to use a Content Management System (CMS) for the site yet or not. 
+There is no content there yet. Mostly because I can't decide if I want to use a Content Management System (CMS) for the site yet or not.
 
 And if I **do** use one, I can't decide whether to use [WordPress](http://wordpress.org/), or to use a more open source CMS like [Wagtail](http://wagtail.io/).
 
